@@ -1,0 +1,1 @@
+import{o as t,b as o,f as s}from"../modules/vue-BLmQdX0u.js";import{_ as r}from"../index-ck-gFd08.js";const a={},d={class:"slidev-layout default"};function l(e,c){return t(),o("div",d,[s(e.$slots,"default")])}const i=r(a,[["render",l],["__file","C:/Users/yidia/Desktop/preparedppt/PreparedPPT/node_modules/@slidev/client/layouts/default.vue"]]);export{i as I};
